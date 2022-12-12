@@ -8,6 +8,6 @@ public class TestaVariaveis {
         idade = 10 +2;
         idade = idade * 2 + 5;
         System.out.println(idade);
-        System.out.println("Idade é " + idade);
+        System.out.println("Idade é " + idade + ", parabéns.");
     }
 }
