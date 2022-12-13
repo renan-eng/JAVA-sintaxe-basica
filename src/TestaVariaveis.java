@@ -31,9 +31,5 @@ public class TestaVariaveis {
 
         double idade_double = 30.0;
         System.out.println(idade_double);
-
-
-
-
     }
 }
