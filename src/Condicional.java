@@ -1,7 +1,7 @@
 public class Condicional {
     public static void main(String[] args) {
         System.out.println("testando condicionais");
-        int idade = 16;
+        int idade = 18;
         int quantidadeDePessoa = 1;
         if (idade >= 18) {
             System.out.println("vc tem mais de 18 anos");
