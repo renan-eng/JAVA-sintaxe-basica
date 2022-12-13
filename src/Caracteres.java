@@ -16,6 +16,5 @@ public class Caracteres {
         palavra += 2022; //out: alura cursos online de tecnologia2022
         System.out.println(palavra);
 
-
     }
 }
